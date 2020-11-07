@@ -11,7 +11,7 @@ class Base
 		}
 		void show()
 		{
-	                cout << a << endl;
+            cout << a << endl;
 			cout << "In show" << endl;
 		}
 };
