@@ -27,6 +27,7 @@ class D11 : public D1, public D2
 
 int main()
 {
+    cout << "In main" << endl;
 	D11 d;
 	//cout << d.a << endl;
 	d.show();
